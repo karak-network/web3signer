@@ -1,4 +1,4 @@
-# Community organisation and members responsibilities
+# Community organisation and member's responsibilities
 
 This doc outlines the various responsibilities of contributor roles in this
 project.
