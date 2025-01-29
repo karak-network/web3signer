@@ -13,7 +13,7 @@ Web3Signer specs under `../core/build/resources/main/openapi-specs`.
 npm ci
 node publish.js
 ~~~
-The script performs following tasks:
+The script performs the following tasks:
 
 * Prepare config object (see `config.js`) which contains version details and gh-pages branch's [versions.json](https://github.com/ConsenSys/web3signer/raw/gh-pages/versions.json) details
   * spec version is read from `../core/build/resources/main/openapi-specs/eth2/web3signer.yaml`
