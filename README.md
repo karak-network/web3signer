@@ -1,6 +1,6 @@
 # Web3signer
 
-An application able to sign Eth2 artefacts (attestations and blocks) using BLS12-381 private key.
+An application able to sign Eth2 artifacts (attestations and blocks) using BLS12-381 private key.
 
 ## Issues
 
